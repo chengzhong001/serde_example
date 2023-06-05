@@ -1,0 +1,8 @@
+name: bob
+age: 45
+phone: '400100'
+bills:
+- amount: 78
+  tax_percent: 0.3
+- amount: 101
+  tax_percent: 0.2
